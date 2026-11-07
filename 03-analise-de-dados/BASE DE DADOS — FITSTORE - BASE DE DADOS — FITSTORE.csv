@@ -1,0 +1,12 @@
+ID da Venda,Data da Venda,Produto,Categoria,Quantidade Vendida,Preço Unitário,Valor Total,Estoque Atual,Status do Pedido,Alerta de Estoque
+001,01/10/2026,Creatina,Suplementos,2,"R$ 89,90","R$ 179,80",18,Entregue,Estoque Normal
+002,02/10/2026,Whey Protein,Suplementos,3,"R$ 129,90","R$ 389,70",25,Entregue,Estoque Normal
+003,03/10/2026,Pré-treino,Suplementos,2,"R$ 79,90","R$ 159,80",12,Entregue,Estoque Normal
+004,04/10/2026,Garrafa de Academia,Acessórios,4,"R$ 29,90","R$ 119,60",30,Entregue,Estoque Normal
+005,05/10/2026,Camiseta Esportiva,Vestuário,2,"R$ 49,90","R$ 99,80",20,Entregue,Estoque Normal
+006,06/10/2026,Strap,Acessórios,3,"R$ 39,90","R$ 119,70",19,Entregue,Estoque Normal
+007,07/10/2026,Macaquinho,Vestuário,4,"R$ 139,90","R$ 559,60",16,Entregue,Estoque Normal
+008,08/10/2026,Creatina,Suplementos,5,"R$ 89,90","R$ 449,50",13,Entregue,Estoque Normal
+009,09/10/2026,Cafeína,Suplementos,3,"R$ 49,90","R$ 149,70",12,Entregue,Estoque Normal
+010,10/10/2026,Bolsa Esportiva,Acessórios,2,"R$ 199,99","R$ 399,98",8,Entregue,Estoque Baixo
+011,11/10/2026,Creatina,Suplementos,4,"R$ 89,90","R$ 359,60",9,Entregue,Estoque Baixo
