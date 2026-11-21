@@ -6,6 +6,12 @@ A FitStore é uma empresa fictícia do ramo de produtos fitness, utilizada no Pr
 
 O objetivo deste trabalho é aplicar os conhecimentos adquiridos durante o semestre para analisar problemas que uma empresa pode enfrentar e buscar possíveis soluções.
 
+### Problemas identificados
+
+A FitStore pode enfrentar dificuldades para organizar suas atividades, acompanhar as vendas, controlar o estoque e proteger as informações dos clientes. Além disso, precisa encontrar formas de reduzir os custos e melhorar seus resultados.
+
+Para buscar soluções, o projeto utiliza Gestão de Projetos no planejamento das atividades, Análise de Dados no acompanhamento das vendas e do estoque, Segurança da Informação na proteção dos dados e Pesquisa Operacional na otimização dos lucros e custos de transporte.
+
 ## Disciplinas envolvidas
 
 - **Gestão de Projetos:** planejamento, cronograma, custos e organização das atividades.
@@ -31,6 +37,6 @@ O objetivo deste trabalho é aplicar os conhecimentos adquiridos durante o semes
 
 ## Situação do projeto
 
-Projeto Integrador em desenvolvimento.
+Relatório final do Projeto Integrador concluído. Organização dos arquivos e preparação para a entrega ao professor.
 
-**Prazo de entrega:** 30 de novembro de 2026.
+Prazo de entrega: 30 de novembro de 2026.
